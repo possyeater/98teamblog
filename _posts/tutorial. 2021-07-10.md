@@ -1,5 +1,5 @@
-layout: post
-author: jill
+#layout: post
+#author: jill
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed mattis 
 ultrices lectus, a semper enim lacinia in. Vestibulum accumsan semper 
